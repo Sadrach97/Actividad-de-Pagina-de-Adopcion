@@ -1,4 +1,4 @@
-.center{
+.centrado{
     margin: auto;
     width: 50%;
     border: 3px solid green;
@@ -9,4 +9,8 @@
     text-align: center;
     border: 3px solid green;
     padding: 10px;
+}
+
+.separacion{
+    margin-top: 20px;
 }
