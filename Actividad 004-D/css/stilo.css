@@ -1,12 +1,11 @@
 .centrado{
     margin: auto;
-    width: 50%;
-    border: 3px solid green;
+    width: 20%;
     padding: 10px;
 }
 
 .center{
-    text-align: center;
+    text-align: left;
     border: 3px solid green;
     padding: 10px;
 }
@@ -18,3 +17,10 @@
 .cen{
     text-align: center;
 }
+
+.body {
+    height:665px;
+    background-image: url("Imagenes/bef07b0d0671dc3cfbbc0948be20e586.jpg");
+    background-size: 10rem;
+    
+  }
