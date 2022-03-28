@@ -15,7 +15,7 @@
 }
 
 .cen{
-    text-align: center;
+    float: center;
 }
 
 .body {
@@ -30,4 +30,7 @@
 }
 .desplazar{
     float: left;
+}
+body{
+    background-color: aqua;
 }
