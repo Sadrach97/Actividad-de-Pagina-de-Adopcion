@@ -143,4 +143,7 @@ body{
 	margin:auto;
 }
 
+.header h1 {
+  font-size: 50px;
+}
 
