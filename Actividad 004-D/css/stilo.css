@@ -121,3 +121,26 @@ img.redimension{
     width: 200px;
     height: 40px;
 }
+.color{
+  background-color: aqua;
+}
+
+body{
+  margin: 10;
+  padding: 10;
+  background: url(1000_F_242289021_7a00BZFYmtcIM72KgcAtU5BKOadPc3BZ.jpg);   
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+*{box-sizing:border-box;}
+
+.container{
+	width:95%;
+	max-width:900px;
+	padding:32px 64px;
+	margin:auto;
+}
+
+
